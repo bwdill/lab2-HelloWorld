@@ -12,6 +12,8 @@ public class Hello {
 		
 		System.out.println("Okay goodbye now");
 		
+		System.out.println("hi to Alice");
+		
 
 	}
 
