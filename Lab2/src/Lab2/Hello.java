@@ -15,6 +15,8 @@ public class Hello {
 		System.out.println("hi to Alice and Bob");
 		
 		System.out.println("hi to Charlie");
+		
+		System.out.println("hi to Ester");
 
 		
 
