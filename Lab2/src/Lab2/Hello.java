@@ -14,6 +14,8 @@ public class Hello {
 		
 		System.out.println("hi to Alice");
 		
+		System.out.println("hi to Bob");
+		
 
 	}
 
