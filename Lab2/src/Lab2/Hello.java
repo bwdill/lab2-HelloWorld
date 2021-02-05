@@ -13,6 +13,8 @@ public class Hello {
 		System.out.println("Okay goodbye now");
 		
 		System.out.println("hi to Alice and Bob");
+		
+		System.out.println("hi to Charlie");
 
 		
 
